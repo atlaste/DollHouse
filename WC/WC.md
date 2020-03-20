@@ -12,6 +12,10 @@ you're done.
 I used a few nails and some can metal for this. Cut the can metal, wrap it around the nails (leave some room for them to move), glue or 
 solder the fixed parts, and glue the moving parts to the seat and the toilet.
 
+## A360 version
+
+You can find the [cloud 3D model here](https://a360.co/3a6f3Bh), or download the F3D file from the repository.
+
 ## Pictures
 
 [pending]
