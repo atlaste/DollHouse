@@ -17,3 +17,4 @@ As I create more models, I'll share them below.
 
 * [Toilet](WC/WC.md)
 * [Shower](Shower/Shower.md)
+* [Kitchen sink](Sink/Sink.md)
