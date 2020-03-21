@@ -16,5 +16,6 @@ Milling a toilet can easily take hours.
 As I create more models, I'll share them below.
 
 * [Toilet](WC/WC.md)
-* [Shower](Shower/Shower.md)
+* [Chair](Chair/Chair.md)
+* [Shower cabinet](Shower/Shower.md)
 * [Kitchen sink](Sink/Sink.md)
